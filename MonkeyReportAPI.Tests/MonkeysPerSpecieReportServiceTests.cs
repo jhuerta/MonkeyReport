@@ -10,14 +10,6 @@ namespace MonkeyReportTests
 {
     public class MonkeysPerSpecieReportServiceTests
     {
-
-        [SetUp]
-        public void Setup()
-        {
-        }
-
-
-
         [Test]
         public void MonkeyJSONRepository_Counts_Properly_By_Specie()
         {

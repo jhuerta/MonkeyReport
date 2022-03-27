@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwB04qlYbxRzStKV8Ri1/VMd9OwP2Ex8dH7KooERDuBzq9odtML+rdMtw0lYU6LYhvSkdy1IhhmnwOtxTCzPeg==",
+  "dgSpecHash": "wSuM2KKk5WxBCWDpMyBcSO2UdAqszsLAnwwgK9C5/z96qZqQ6YNu2GTmCv7OJp8gH/NDoMRIL67VAq1BdFM4Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhuerta\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\jhuerta\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

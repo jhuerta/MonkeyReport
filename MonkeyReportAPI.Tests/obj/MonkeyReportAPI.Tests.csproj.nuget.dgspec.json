@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {}
+    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {
+    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
         "projectName": "MonkeyReportAPI.Tests",
-        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\jhuerta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhuerta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
-                "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
+              "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
+                "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
+    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
+        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
         "projectName": "MonkeyReportAPI",
-        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
+        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
         "packagesPath": "C:\\Users\\jhuerta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\obj\\",
+        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhuerta\\AppData\\Roaming\\NuGet\\NuGet.Config",

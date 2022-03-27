@@ -17,12 +17,10 @@ namespace MonkeyReport.Controllers
             monkeysPerSpecieReportService=_monkeysPerSpecieReportService;
         }
 
-        // GET api/values
         [HttpGet]
         public IEnumerable<MonkeyReportRow> Get()
         {
-            var monkeys = monkeysPerSpecieReportService.Build();
-            return monkeys.ToArray();
+            return monkeysPerSpecieReportService.Build();
         }
     }
 }

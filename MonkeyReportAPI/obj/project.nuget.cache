@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gzcD/yYzqj07ko3FfY5N1g2V3RbcwLLs7wJIRWEV2VXwYfFSJ0MlNZ3bUFR+qB3del65Tj7sLzkIeWj4f7Y9Fg==",
+  "dgSpecHash": "5Aknn5u0GaaMYGrlMQtWBBUSYLdbawt2ZYZew1n9XA1B5lY1G72Kew0Su5MPD2sioQluIyZLJzFC1V70TDRIVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\New folder\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
+  "projectFilePath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jhuerta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\jhuerta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
