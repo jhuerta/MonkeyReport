@@ -21,6 +21,9 @@ namespace MonkeyReport.Controllers
         public IEnumerable<MonkeyReportRow> Get()
         {
             return monkeysPerSpecieReportService.Build();
+
+            // Use this code if the client is requesting JSON format (IActionResult return type)
+            // return new JsonResult(monkeysPerSpecieReportService.Build());
         }
     }
 }

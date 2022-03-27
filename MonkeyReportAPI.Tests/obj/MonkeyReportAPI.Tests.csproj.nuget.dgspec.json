@@ -1,21 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {}
+    "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {
+    "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
         "projectName": "MonkeyReportAPI.Tests",
-        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
-        "packagesPath": "C:\\Users\\jhuerta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
+        "projectPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+        "packagesPath": "C:\\Users\\huertaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jhuerta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\huertaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,10 +31,9 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
-                "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
+              "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
+                "projectPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
               }
             }
           }
@@ -42,7 +46,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
@@ -71,41 +74,35 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
+    "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
+        "projectUniqueName": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
         "projectName": "MonkeyReportAPI",
-        "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
-        "packagesPath": "C:\\Users\\jhuerta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\obj\\",
+        "projectPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj",
+        "packagesPath": "C:\\Users\\huertaj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\jhuerta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\huertaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -116,7 +113,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -128,7 +124,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
@@ -145,24 +140,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x86",
-              "version": "[3.1.23, 3.1.23]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -171,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

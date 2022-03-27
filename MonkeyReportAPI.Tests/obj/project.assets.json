@@ -994,7 +994,7 @@
   },
   "libraries": {
     "Castle.Core/4.4.1": {
-      "sha512": "zanbjWC0Y05gbx4eGXkzVycOQqVOFVeCjVsDSyuao9P4mtN1w3WxxTo193NGC7j3o2u3AJRswaoC6hEbnGACnQ==",
+      "sha512": "snw0DfB2IqvahUOkjAV+uTbJsCt+0tb1jgnjO9Wl9wx6LuhnEnoFaX5aQSe6QElKF+pACASCV4MoqoozrpeqOg==",
       "type": "package",
       "path": "castle.core/4.4.1",
       "files": [
@@ -1122,7 +1122,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
-      "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "sha512": "bLpT1f/SFlO1CzqXG12KnJzpZs6lv24uX2Rzi4Fmm0noJpNlnWRVryuO3yK18Ca04t/YHcO1e1Z0WDfjseqNzw==",
       "type": "package",
       "path": "microsoft.netcore.platforms/1.1.0",
       "files": [
@@ -1618,7 +1618,7 @@
       ]
     },
     "Moq/4.17.2": {
-      "sha512": "HytUPJ3/uks2UgJ9hIcyXm3YxpFAR4OJzbQwTHltbKGun3lFLhEHs97hiiPj1dY8jV/kasXeihTzDxct6Zf3iQ==",
+      "sha512": "5W8kZopCmNf4yCJZucy/SkF6Z21nsK9Xuz9hQDHHIneEbXrN3WGae3teIwnbpQqNygJtwB1/c8arEmJghSIp/Q==",
       "type": "package",
       "path": "moq/4.17.2",
       "files": [
@@ -1636,7 +1636,7 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "sha512": "49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
@@ -1766,7 +1766,7 @@
       ]
     },
     "Newtonsoft.Json/13.0.1": {
-      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "sha512": "g3MbZi6vBTeaI/hEbvR7vBETSd1DWLe9i1E4P+nPY34v5i94zqUqDXvdWC3G+7tYN9SnsdU9zzegrnRz4h7nsQ==",
       "type": "package",
       "path": "newtonsoft.json/13.0.1",
       "files": [
@@ -1811,7 +1811,7 @@
       ]
     },
     "NUnit/3.13.3": {
-      "sha512": "KNPDpls6EfHwC3+nnA67fh5wpxeLb3VLFAfLxrug6JMYDLHH6InaQIWR7Sc3y75d/9IKzMksH/gi08W7XWbmnQ==",
+      "sha512": "Cd/KUC1jbDEjrfkzMXMts1Tp4oCTXRu9eSPXEPWymt+C1B78dj4s6Hgd3gHYG7shrxaNiX1YIKU8FaD5vPEfIA==",
       "type": "package",
       "path": "nunit/3.13.3",
       "files": [
@@ -1942,12 +1942,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2079,12 +2078,11 @@
       ]
     },
     "System.ComponentModel.Primitives/4.3.0": {
-      "sha512": "j8GUkCpM8V4d4vhLIIoBLGey2Z5bCkMVNjEZseyAlm4n5arcsJOeI3zkUP+zvZgzsbLTYh4lYeP/ZD/gdIAPrw==",
+      "sha512": "KMVuoQ+8bMQ/Z59M3s64num5AD74X5YSqVc7ibwGkPTfmmkl2W8VuSxLRJtpw4KzQrSKUgR0BLbF0adPfcTSGQ==",
       "type": "package",
       "path": "system.componentmodel.primitives/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2961,7 +2959,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.3.0": {
-      "sha512": "59tBslAk9733NXLrUJrwNZEzbMAcu8k344OYo+wfSVygcgZ9lgBdGIzH/nrg3LYhXceynyvTc8t5/GD4Ri0/ng==",
+      "sha512": "+rD+UzHYxfXsT+YrMI0njdFaP/o1cnmSnRWy4os/NaWJC7FyCHrCOwiAKUwz+smQ3cPKZ8pAAv5zM5DDBG4K4w==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.3.0",
       "files": [
@@ -3108,7 +3106,7 @@
       ]
     },
     "System.Reflection.Metadata/1.6.0": {
-      "sha512": "COC1aiAJjCoA5GBF+QKL2uLqEBew4JsCkQmoHKbN3TlOZKa2fKLz5CpiRQKDz0RsAOEGsVKqOD5bomsXq/4STQ==",
+      "sha512": "sARURAx/ZV3f3lL/40TG9y2Wqk60DXUlvzowM5oYeHlcpuEMIxoKnDBhNwBzwRs3i+vWUwIbU7Kk/+mG+hzckA==",
       "type": "package",
       "path": "system.reflection.metadata/1.6.0",
       "files": [
@@ -3960,7 +3958,7 @@
       ]
     },
     "System.Threading.Tasks.Extensions/4.5.4": {
-      "sha512": "zteT+G8xuGu6mS+mzDzYXbzS7rd3K6Fjb9RiZlYlJPam2/hU7JCBZBVEcywNuR+oZ1ncTvc/cq0faRr3P01OVg==",
+      "sha512": "aAUghud9PHGYc3o9oWPWd0C3xE+TJQw5ZZs78htlR6mr9ky/QEgfXHjyQ2GvOq9H1S0YizcVVKCSin92ZcH8FA==",
       "type": "package",
       "path": "system.threading.tasks.extensions/4.5.4",
       "files": [
@@ -4123,20 +4121,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhuerta\\.nuget\\packages\\": {}
+    "C:\\Users\\huertaj\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
       "projectName": "MonkeyReportAPI.Tests",
-      "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
-      "packagesPath": "C:\\Users\\jhuerta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
+      "projectPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\MonkeyReportAPI.Tests.csproj",
+      "packagesPath": "C:\\Users\\huertaj\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI.Tests\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jhuerta\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\huertaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -4147,10 +4152,9 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
-              "projectPath": "C:\\Users\\jhuerta\\Documents\\MyStuff\\Training\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
+            "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj": {
+              "projectPath": "C:\\Users\\huertaj\\Desktop\\Tests and Beyond\\Docs\\GFMachinery\\MonkeyReport\\MonkeyReportAPI\\MonkeyReportAPI.csproj"
             }
           }
         }
@@ -4163,7 +4167,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
@@ -4192,26 +4195,15 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
