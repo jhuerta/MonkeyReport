@@ -1,0 +1,10 @@
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Data\monkeycollection.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MonkeyReportAPI.exe
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Production.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MonkeyReportAPI.dll
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MonkeyReportAPI.deps.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MonkeyReportAPI.runtimeconfig.json
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\MonkeyReportAPI.pdb
+C:\Users\jhuerta\Documents\MyStuff\New folder\MonkeyReport\MonkeyReportAPI\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
